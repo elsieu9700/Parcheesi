@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from ludo.cli import CLIGame
+from parcheesi.cli import CLIGame
 
 
 CLIGame().start()
